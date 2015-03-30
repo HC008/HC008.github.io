@@ -1,0 +1,51 @@
+body {
+	background-color: #E8FEFF;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	background-color: #0099FF;
+	padding-bottom: 15px;
+}
+
+ul {
+	font-size: 25px;
+	list-style: none;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 10px;
+	border-bottom: none;
+}
+
+li {
+	display: inline;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#design {
+	float: left;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#design p {
+	font-size: 20px
+}
+
+#design a {
+	font-size: 18px;
+	color: #0033FF;
+}

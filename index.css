@@ -43,14 +43,14 @@ a:hover {
 	position: center;
 }
 
-.info {
+.intro {
 	float: right;
 	padding-left: 99px;
 	padding-right: 500px;
 }
 
-.info p {
-	font-size: 20px;
+.intro p {
+	font-size: 35px;
 }
 
 #contact {
